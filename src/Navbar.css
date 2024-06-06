@@ -1,0 +1,28 @@
+.navbar{
+    background-color: rgba(128, 128, 128, 0.205);
+    color: white;
+    padding: 10px 20px;
+
+  
+}
+
+.nav-list{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+.nav-link{
+
+    font: 20px;
+    color: white;
+    
+
+}
+.nav-link:hover {
+    color: #ccc;
+}
